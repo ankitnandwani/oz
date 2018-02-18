@@ -1,0 +1,2 @@
+default: --format pretty --format html --out results.html --format json --out results.json
+shopping: ../SHOPPING/scenarios --require ../SHOPPING/setup.rb -p default
