@@ -1,0 +1,4 @@
+INPUT_DATA:
+  DEFAULT:
+    :email_text_field: "ankitnandwani@hotmail.com"
+    :password_text_field: "ankit"

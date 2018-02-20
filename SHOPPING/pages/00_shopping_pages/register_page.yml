@@ -1,0 +1,10 @@
+INPUT_DATA:
+  DEFAULT:
+    :fname_text_field: "Ankit"
+    :lname_text_field: "Nandwani"
+    :date_select_list: "12"
+    :month_select_list: "May"
+    :year_select_list: "1990"
+    :email_text_field: "mmogambo@kush.huaa"
+    :password_text_field: "random"
+    :cpassword_text_field: "random"
